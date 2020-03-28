@@ -1,0 +1,23 @@
+h1{background-color: rgb(0, 22, 174)}
+h1{color:#ffffff}
+h1{text-align: center}
+h3{background-color:red}
+h3{color:#ffffff}
+h3{text-align: center}
+body{background-image:url(background.jpg);}
+body{align-items: center;text-align: center;font-family: 'Verdana'}
+body{color:rgb(255, 165, 0)}
+th,td,tr{background-color:rgb(255, 115, 0);color: white}
+body{border-style: inset}
+body{width: : 600px;height: 2400px}
+body{border:5px round #009999;}
+body{padding-left: 20px}
+body{padding-right: 20px}
+body{ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;}
+Follow{background-color: rgb(255, 165, 0); color: white; font-family: 'Times New Roman'}
+Add{background-color: rgb(255, 165, 0); color: white; font-family: 'Times New Roman'}
+img{border-radius : 60px}
+img{border:5px round #009999;}
